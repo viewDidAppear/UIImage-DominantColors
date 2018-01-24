@@ -12,6 +12,26 @@
 		02B3F2712017F8A100A4E49D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F26F2017F8A100A4E49D /* Main.storyboard */; };
 		02B3F2732017F8A100A4E49D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F2722017F8A100A4E49D /* Assets.xcassets */; };
 		02B3F2762017F8A100A4E49D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F2742017F8A100A4E49D /* LaunchScreen.storyboard */; };
+		02B3F27E2017F8D200A4E49D /* UIImage+Analyzable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B3F27D2017F8D200A4E49D /* UIImage+Analyzable.swift */; };
+		02B3F2802017F8E400A4E49D /* UIColor+DarkLight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B3F27F2017F8E400A4E49D /* UIColor+DarkLight.swift */; };
+		02B3F2822017F8F700A4E49D /* Double+RGBHSV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B3F2812017F8F700A4E49D /* Double+RGBHSV.swift */; };
+		02B3F2842017F92800A4E49D /* cathay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F2832017F92800A4E49D /* cathay.jpg */; };
+		02B3F28C201800F300A4E49D /* southwest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F28B201800F300A4E49D /* southwest.jpg */; };
+		02B3F28E2018013400A4E49D /* qantas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F28D2018013400A4E49D /* qantas.jpg */; };
+		02B3F2902018026C00A4E49D /* jetstar.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F28F2018026C00A4E49D /* jetstar.png */; };
+		02B3F292201805E000A4E49D /* american.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F291201805E000A4E49D /* american.jpeg */; };
+		02B3F2942018063400A4E49D /* ana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F2932018063400A4E49D /* ana.jpg */; };
+		02B3F2962018067E00A4E49D /* philippine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F2952018067E00A4E49D /* philippine.jpg */; };
+		02B3F298201807C300A4E49D /* havaii.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F297201807C300A4E49D /* havaii.png */; };
+		02B3F2A22018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.16.46.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F2992018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.16.46.png */; };
+		02B3F2A32018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.11.29.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F29A2018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.11.29.png */; };
+		02B3F2A42018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.49.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F29B2018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.49.png */; };
+		02B3F2A52018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.08.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F29C2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.08.png */; };
+		02B3F2A62018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.05.48.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F29D2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.05.48.png */; };
+		02B3F2A72018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.08.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F29E2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.08.24.png */; };
+		02B3F2A82018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.27.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F29F2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.27.png */; };
+		02B3F2A92018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 10.53.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F2A02018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 10.53.24.png */; };
+		02B3F2AA2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.09.42.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B3F2A12018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.09.42.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +42,26 @@
 		02B3F2722017F8A100A4E49D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02B3F2752017F8A100A4E49D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		02B3F2772017F8A100A4E49D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02B3F27D2017F8D200A4E49D /* UIImage+Analyzable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Analyzable.swift"; sourceTree = "<group>"; };
+		02B3F27F2017F8E400A4E49D /* UIColor+DarkLight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+DarkLight.swift"; sourceTree = "<group>"; };
+		02B3F2812017F8F700A4E49D /* Double+RGBHSV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+RGBHSV.swift"; sourceTree = "<group>"; };
+		02B3F2832017F92800A4E49D /* cathay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cathay.jpg; sourceTree = "<group>"; };
+		02B3F28B201800F300A4E49D /* southwest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = southwest.jpg; sourceTree = "<group>"; };
+		02B3F28D2018013400A4E49D /* qantas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qantas.jpg; sourceTree = "<group>"; };
+		02B3F28F2018026C00A4E49D /* jetstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jetstar.png; sourceTree = "<group>"; };
+		02B3F291201805E000A4E49D /* american.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = american.jpeg; sourceTree = "<group>"; };
+		02B3F2932018063400A4E49D /* ana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ana.jpg; sourceTree = "<group>"; };
+		02B3F2952018067E00A4E49D /* philippine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = philippine.jpg; sourceTree = "<group>"; };
+		02B3F297201807C300A4E49D /* havaii.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = havaii.png; sourceTree = "<group>"; };
+		02B3F2992018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.16.46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.16.46.png"; sourceTree = "<group>"; };
+		02B3F29A2018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.11.29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.11.29.png"; sourceTree = "<group>"; };
+		02B3F29B2018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.49.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.49.png"; sourceTree = "<group>"; };
+		02B3F29C2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.08.png"; sourceTree = "<group>"; };
+		02B3F29D2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.05.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.05.48.png"; sourceTree = "<group>"; };
+		02B3F29E2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.08.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.08.24.png"; sourceTree = "<group>"; };
+		02B3F29F2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.27.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.27.png"; sourceTree = "<group>"; };
+		02B3F2A02018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 10.53.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 10.53.24.png"; sourceTree = "<group>"; };
+		02B3F2A12018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.09.42.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.09.42.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,12 +96,40 @@
 			children = (
 				02B3F26B2017F8A100A4E49D /* AppDelegate.swift */,
 				02B3F26D2017F8A100A4E49D /* ViewController.swift */,
+				02B3F27D2017F8D200A4E49D /* UIImage+Analyzable.swift */,
+				02B3F27F2017F8E400A4E49D /* UIColor+DarkLight.swift */,
+				02B3F2812017F8F700A4E49D /* Double+RGBHSV.swift */,
+				02B3F2832017F92800A4E49D /* cathay.jpg */,
+				02B3F297201807C300A4E49D /* havaii.png */,
+				02B3F28F2018026C00A4E49D /* jetstar.png */,
+				02B3F291201805E000A4E49D /* american.jpeg */,
+				02B3F28B201800F300A4E49D /* southwest.jpg */,
+				02B3F2952018067E00A4E49D /* philippine.jpg */,
+				02B3F2932018063400A4E49D /* ana.jpg */,
+				02B3F28D2018013400A4E49D /* qantas.jpg */,
+				02B3F2AB2018081900A4E49D /* Screenshots */,
 				02B3F26F2017F8A100A4E49D /* Main.storyboard */,
 				02B3F2722017F8A100A4E49D /* Assets.xcassets */,
 				02B3F2742017F8A100A4E49D /* LaunchScreen.storyboard */,
 				02B3F2772017F8A100A4E49D /* Info.plist */,
 			);
 			path = Analyzer;
+			sourceTree = "<group>";
+		};
+		02B3F2AB2018081900A4E49D /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				02B3F2A02018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 10.53.24.png */,
+				02B3F29D2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.05.48.png */,
+				02B3F29C2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.08.png */,
+				02B3F29F2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.27.png */,
+				02B3F29B2018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.49.png */,
+				02B3F29E2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.08.24.png */,
+				02B3F2A12018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.09.42.png */,
+				02B3F29A2018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.11.29.png */,
+				02B3F2992018081200A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.16.46.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +191,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02B3F2AA2018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.09.42.png in Resources */,
+				02B3F2942018063400A4E49D /* ana.jpg in Resources */,
 				02B3F2762017F8A100A4E49D /* LaunchScreen.storyboard in Resources */,
+				02B3F2A62018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.05.48.png in Resources */,
+				02B3F2A22018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.16.46.png in Resources */,
+				02B3F298201807C300A4E49D /* havaii.png in Resources */,
+				02B3F2A52018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.08.png in Resources */,
+				02B3F2A82018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.27.png in Resources */,
+				02B3F2A42018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.06.49.png in Resources */,
+				02B3F2A72018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.08.24.png in Resources */,
 				02B3F2732017F8A100A4E49D /* Assets.xcassets in Resources */,
+				02B3F2A92018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 10.53.24.png in Resources */,
+				02B3F28C201800F300A4E49D /* southwest.jpg in Resources */,
+				02B3F2842017F92800A4E49D /* cathay.jpg in Resources */,
+				02B3F292201805E000A4E49D /* american.jpeg in Resources */,
+				02B3F2A32018081300A4E49D /* Simulator Screen Shot - iPhone 7 - 2018-01-24 at 11.11.29.png in Resources */,
 				02B3F2712017F8A100A4E49D /* Main.storyboard in Resources */,
+				02B3F28E2018013400A4E49D /* qantas.jpg in Resources */,
+				02B3F2902018026C00A4E49D /* jetstar.png in Resources */,
+				02B3F2962018067E00A4E49D /* philippine.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +221,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02B3F2802017F8E400A4E49D /* UIColor+DarkLight.swift in Sources */,
+				02B3F2822017F8F700A4E49D /* Double+RGBHSV.swift in Sources */,
+				02B3F27E2017F8D200A4E49D /* UIImage+Analyzable.swift in Sources */,
 				02B3F26E2017F8A100A4E49D /* ViewController.swift in Sources */,
 				02B3F26C2017F8A100A4E49D /* AppDelegate.swift in Sources */,
 			);
